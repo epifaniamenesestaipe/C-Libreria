@@ -1,0 +1,10 @@
+F:\lib\LibCesarVallejo\CapaDatosYNegocio\bin\Debug\CapaDatosYNegocio.dll
+F:\lib\LibCesarVallejo\CapaDatosYNegocio\bin\Debug\CapaDatosYNegocio.pdb
+F:\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.csprojResolveAssemblyReference.cache
+F:\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.dll
+F:\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.pdb
+C:\Users\Alumno\Desktop\lib\LibCesarVallejo\CapaDatosYNegocio\bin\Debug\CapaDatosYNegocio.dll
+C:\Users\Alumno\Desktop\lib\LibCesarVallejo\CapaDatosYNegocio\bin\Debug\CapaDatosYNegocio.pdb
+C:\Users\Alumno\Desktop\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.dll
+C:\Users\Alumno\Desktop\lib\LibCesarVallejo\CapaDatosYNegocio\obj\Debug\CapaDatosYNegocio.pdb
